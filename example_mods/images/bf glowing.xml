@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf glowing.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf glowing0000" x="0" y="0" width="356" height="330" pivotX="-232.2" pivotY="-138.45"/>
+	<SubTexture name="bf glowing0001" x="0" y="0" width="356" height="330"/>
+	<SubTexture name="bf glowing0002" x="358" y="0" width="356" height="330"/>
+	<SubTexture name="bf glowing0003" x="358" y="0" width="356" height="330"/>
+	<SubTexture name="bf glowing0004" x="0" y="332" width="356" height="330"/>
+	<SubTexture name="bf glowing0005" x="0" y="332" width="356" height="330"/>
+	<SubTexture name="bf glowing0006" x="358" y="332" width="356" height="330"/>
+	<SubTexture name="bf glowing0007" x="358" y="332" width="356" height="330"/>
+	<SubTexture name="bf glowing0008" x="0" y="664" width="356" height="330"/>
+	<SubTexture name="bf glowing0009" x="0" y="664" width="356" height="330"/>
+	<SubTexture name="bf glowing0010" x="0" y="664" width="356" height="330"/>
+	<SubTexture name="bf glowing0011" x="0" y="664" width="356" height="330"/>
+	<SubTexture name="bf glowing0012" x="0" y="664" width="356" height="330"/>
+	<SubTexture name="bf glowing0013" x="0" y="664" width="356" height="330"/>
+	<SubTexture name="bf glowing0014" x="0" y="664" width="356" height="330"/>
+</TextureAtlas>

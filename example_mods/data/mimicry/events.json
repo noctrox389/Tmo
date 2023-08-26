@@ -1,0 +1,1896 @@
+{
+	"song": {
+		"events": [
+			[
+				89142.8571428571,
+				[
+					[
+						"Cassie Speech",
+						"Central",
+						""
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"Cassie Speech",
+						"Autonomic",
+						""
+					]
+				]
+			],
+			[
+				90857.1428571429,
+				[
+					[
+						"Cassie Speech",
+						"Service",
+						""
+					]
+				]
+			],
+			[
+				91714.2857142857,
+				[
+					[
+						"Cassie Speech",
+						"System",
+						""
+					]
+				]
+			],
+			[
+				92571.4285714286,
+				[
+					[
+						"Cassie Speech",
+						"for",
+						""
+					]
+				]
+			],
+			[
+				93214.2857142857,
+				[
+					[
+						"Cassie Speech",
+						"Internal",
+						""
+					]
+				]
+			],
+			[
+				94071.4285714286,
+				[
+					[
+						"Cassie Speech",
+						"Emergencies",
+						""
+					]
+				]
+			],
+			[
+				95142.8571428571,
+				[
+					[
+						"Cassie Speech",
+						"Activated",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"true"
+					]
+				]
+			],
+			[
+				96214.2857142857,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				96428.5714285714,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				96642.8571428571,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				96750,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				96857.1428571428,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				96964.2857142857,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				97071.4285714286,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				97178.5714285714,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				97285.7142857143,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				97500,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				97714.2857142857,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"true"
+					]
+				]
+			],
+			[
+				98035.7142857143,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				98357.1428571428,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				98571.4285714286,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				98785.7142857143,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				99000,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				99214.2857142857,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				99428.5714285714,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"true"
+					]
+				]
+			],
+			[
+				99535.7142857143,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				99642.8571428571,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				99750,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				99857.1428571428,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				99964.2857142857,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				100071.428571429,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				100178.571428571,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				100285.714285714,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				100500,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				100714.285714286,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				100928.571428571,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				101142.857142857,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"true"
+					]
+				]
+			],
+			[
+				101571.428571429,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				102428.571428571,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				102642.857142857,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				102857.142857143,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"true"
+					]
+				]
+			],
+			[
+				102964.285714286,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				103071.428571429,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				103178.571428571,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				103285.714285714,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				103392.857142857,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				103500,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				103607.142857143,
+				[
+					[
+						"Cassie Speech",
+						"u",
+						"false"
+					]
+				]
+			],
+			[
+				103714.285714286,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				103821.428571429,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				103928.571428571,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				104035.714285714,
+				[
+					[
+						"Cassie Speech",
+						"u",
+						"false"
+					]
+				]
+			],
+			[
+				104142.857142857,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				104250,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				104357.142857143,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				104464.285714286,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				104571.428571429,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"true"
+					]
+				]
+			],
+			[
+				104678.571428571,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				104785.714285714,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				104892.857142857,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				105107.142857143,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				105214.285714286,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				105321.428571429,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				105428.571428571,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				105642.857142857,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				105857.142857143,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				106071.428571429,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				106285.714285714,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"true"
+					]
+				]
+			],
+			[
+				106392.857142857,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				106500,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				106607.142857143,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				106714.285714286,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				106821.428571429,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				106928.571428571,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				107035.714285714,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				107142.857142857,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				107250,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				107357.142857143,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				107464.285714286,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				107571.428571429,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				107678.571428571,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				107785.714285714,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				107892.857142857,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"true"
+					]
+				]
+			],
+			[
+				108428.571428571,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				108642.857142857,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				108857.142857143,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				109285.714285714,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				109500,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				109714.285714286,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"true"
+					]
+				]
+			],
+			[
+				109821.428571429,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				109928.571428571,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				110035.714285714,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				110142.857142857,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				110357.142857143,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				110464.285714286,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				110571.428571429,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				110678.571428571,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				110785.714285714,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				110892.857142857,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				111000,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				111214.285714286,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				111428.571428571,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"true"
+					]
+				]
+			],
+			[
+				111642.857142857,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				111857.142857143,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				112071.428571429,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				112178.571428571,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				112285.714285714,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				112392.857142857,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				112500,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				112607.142857143,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				112714.285714286,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				112821.428571429,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				112928.571428571,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				113035.714285714,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				113142.857142857,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"true"
+					]
+				]
+			],
+			[
+				113250,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				113357.142857143,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				113464.285714286,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				113571.428571429,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				113678.571428571,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				113785.714285714,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				113892.857142857,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				114214.285714286,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				114321.428571429,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				114428.571428571,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				114642.857142857,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				114857.142857143,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"true"
+					]
+				]
+			],
+			[
+				115071.428571429,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				115178.571428571,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				115285.714285714,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				115392.857142857,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				115500,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				115714.285714286,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				115928.571428571,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				116035.714285714,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				116142.857142857,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				116357.142857143,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				116571.428571429,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"true"
+					]
+				]
+			],
+			[
+				117000,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				117107.142857143,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				117214.285714286,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				117642.857142857,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				117750,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				117857.142857143,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				118071.428571429,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				118285.714285714,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"true"
+					]
+				]
+			],
+			[
+				118500,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				118607.142857143,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				118714.285714286,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				118928.571428571,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				119142.857142857,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				119250,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				119357.142857143,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				119464.285714286,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				119571.428571429,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				119785.714285714,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"true"
+					]
+				]
+			],
+			[
+				120214.285714286,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				120428.571428571,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				120535.714285714,
+				[
+					[
+						"Cassie Speech",
+						"e",
+						"false"
+					]
+				]
+			],
+			[
+				120642.857142857,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				120857.142857143,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				121071.428571428,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				121178.571428571,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				121285.714285714,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				121500,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				121714.285714286,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"true"
+					]
+				]
+			],
+			[
+				121928.571428571,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				122142.857142857,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				122250,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				122357.142857143,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				122571.428571428,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				122785.714285714,
+				[
+					[
+						"Cassie Speech",
+						"o",
+						"false"
+					]
+				]
+			],
+			[
+				122892.857142857,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				123000,
+				[
+					[
+						"Cassie Speech",
+						"i",
+						"false"
+					]
+				]
+			],
+			[
+				123214.285714286,
+				[
+					[
+						"Cassie Speech",
+						"a",
+						"false"
+					]
+				]
+			],
+			[
+				162000,
+				[
+					[
+						"Cassie Speech",
+						"SCP",
+						"true"
+					]
+				]
+			],
+			[
+				163125,
+				[
+					[
+						"Cassie Speech",
+						"- 939",
+						""
+					]
+				]
+			],
+			[
+				165053.571428572,
+				[
+					[
+						"Cassie Speech",
+						"contained successfully.",
+						""
+					]
+				]
+			],
+			[
+				166580.357142857,
+				[
+					[
+						"Cassie Speech",
+						"Containment",
+						""
+					]
+				]
+			],
+			[
+				167169.642857143,
+				[
+					[
+						"Cassie Speech",
+						"unit:",
+						""
+					]
+				]
+			],
+			[
+				167758.928571429,
+				[
+					[
+						"Cassie Speech",
+						"Zulu",
+						""
+					]
+				]
+			],
+			[
+				168375,
+				[
+					[
+						"Cassie Speech",
+						"- 7",
+						""
+					]
+				]
+			]
+		]
+	}
+}

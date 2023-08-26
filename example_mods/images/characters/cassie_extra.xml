@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cassie_extra.png"><SubTexture name="cassie line0000" x="0" y="0" width="281" height="2268" frameX="-7" frameY="-4" frameWidth="302" frameHeight="2278" />
+<SubTexture name="cassie line0001" x="0" y="0" width="281" height="2268" frameX="-7" frameY="-4" frameWidth="302" frameHeight="2278" />
+<SubTexture name="cassie line0002" x="281" y="0" width="274" height="2264" frameX="-11" frameY="-6" frameWidth="302" frameHeight="2278" />
+<SubTexture name="cassie line0003" x="281" y="0" width="274" height="2264" frameX="-11" frameY="-6" frameWidth="302" frameHeight="2278" />
+<SubTexture name="cassie line0004" x="822" y="0" width="263" height="2248" frameX="-16" frameY="-4" frameWidth="302" frameHeight="2278" />
+<SubTexture name="cassie line0005" x="822" y="0" width="263" height="2248" frameX="-16" frameY="-4" frameWidth="302" frameHeight="2278" />
+<SubTexture name="cassie line0006" x="555" y="0" width="267" height="2261" frameX="-13" frameY="-5" frameWidth="302" frameHeight="2278" />
+<SubTexture name="cassie line0007" x="555" y="0" width="267" height="2261" frameX="-13" frameY="-5" frameWidth="302" frameHeight="2278" />
+</TextureAtlas>
